@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(242, 242, 242);
+    
+}
+h3{
+    text-align: center;
+}
+ul, ol {
+    list-style: none;
+  }

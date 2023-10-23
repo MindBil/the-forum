@@ -1,0 +1,11 @@
+/* Contacts.css */
+.footer {
+    min-height: 100vh; /* Make sure the container takes up at least the full viewport height */
+    display: flex;
+    flex-direction: column;
+  }
+  
+  Footer {
+    margin-top: auto; /* Push the footer to the bottom of the container */
+  }
+  

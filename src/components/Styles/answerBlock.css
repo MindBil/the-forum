@@ -1,0 +1,15 @@
+.answerBlock {
+    margin: 5px;
+    padding: 5px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    background-color: rgb(228, 228, 228);
+    width:90%;
+  }
+  
+  .answerBlock h4 {
+    font-size: 20px;
+    margin-bottom: 10px;
+    color: #333;
+  }
+    

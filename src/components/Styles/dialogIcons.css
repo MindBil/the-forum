@@ -1,0 +1,20 @@
+.dialogIcons button {
+    margin-right: 8px;
+    border-radius: 5px;
+    border: 1.2px solid grey;
+  }
+  
+  .dialogIcons svg {
+    font-size: 24px;
+    color: rgb(95, 95, 95);
+    transition: color 0.3s, transform 0.3s;
+    margin: 0.1rem;
+    margin-left: 0.5rem;
+  }
+  
+  .dialogIcons svg:hover {
+    color: #007bff;
+    transform: scale(1.1);
+    cursor: pointer;
+  }
+  
